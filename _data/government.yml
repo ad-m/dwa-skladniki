@@ -5,3 +5,4 @@ websites:
       tfa: Yes
       sms: Yes
       email: Yes
+      doc: https://pz.gov.pl/dt/help
